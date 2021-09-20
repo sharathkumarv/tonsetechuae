@@ -1,0 +1,9 @@
+name: Field Autovalue
+description: Pluggable way to provide automatic values to fields
+# core: 8.x
+type: module
+# Information added by Drupal.org packaging script on 2018-11-28
+version: '8.x-1.0-beta1'
+core: '8.x'
+project: 'field_autovalue'
+datestamp: 1543399984
